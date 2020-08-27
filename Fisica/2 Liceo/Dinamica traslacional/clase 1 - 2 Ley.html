@@ -7,9 +7,11 @@
     <style>
       body {
         display: grid;
-        max-width: 800px;
+        /* max-width: 800px; */
         justify-items: center;
         justify-self: center;
+        grid-template-columns: 1fr minmax(400px, 800px) 1fr;
+        grid-template-areas: ". ejercicios .";
       }
       .imgSol {
         display: none;
@@ -17,46 +19,63 @@
       img {
         width: 100%;
       }
+      #ejercicios {
+        grid-area: ejercicios;
+      }
     </style>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
   </head>
   <body>
-    <h1>Segunda ley de la dinámica</h1>
-    <h2>Ejercicios</h2>
-    <ul>
-      <li>
-        <h3>Ejercicio 1</h3>
-        <img src="images/1.PNG" alt="Ejercicio 1" />
-        <button class="butSol" id="butSol1">Ver solución</button>
-        <img
-          src="images/1Sol.jpg"
-          class="imgSol"
-          id="sol1"
-          alt="Solucion ejercicio 1"
-        />
-      </li>
-      <li>
-        <h3>Ejercicio 2</h3>
-        <img src="images/2.PNG" alt="Ejercicio 2" />
-        <button class="butSol" id="butSol2">Ver solución</button>
-        <img
-          src="images/2Sol.jpg"
-          class="imgSol"
-          id="sol2"
-          alt="Solucion ejercicio 2"
-        />
-      </li>
-      <li>
-        <h3>Ejercicio 3</h3>
-        <img src="images/3.PNG" alt="Ejercicio 3" />
-        <button class="butSol" id="butSol3">Ver solución</button>
-        <img
-          src="images/3Sol.jpg"
-          class="imgSol"
-          id="sol3"
-          alt="Solucion ejercicio 3"
-        />
-      </li>
-    </ul>
+    <div id="ejercicios">
+      <h1>Segunda ley de la dinámica</h1>
+      <h2>Ejercicios</h2>
+      <ul>
+        <li>
+          <h3>Ejercicio 1</h3>
+          <img src="images/1.PNG" alt="Ejercicio 1" />
+          <button class="btn btn-secondary butSol" id="butSol1">
+            Ver solución
+          </button>
+          <img
+            src="images/1Sol.jpg"
+            class="imgSol"
+            id="sol1"
+            alt="Solucion ejercicio 1"
+          />
+        </li>
+        <li>
+          <h3>Ejercicio 2</h3>
+          <img src="images/2.PNG" alt="Ejercicio 2" />
+          <button class="btn btn-secondary butSol" id="butSol2">
+            Ver solución
+          </button>
+          <img
+            src="images/2Sol.jpg"
+            class="imgSol"
+            id="sol2"
+            alt="Solucion ejercicio 2"
+          />
+        </li>
+        <li>
+          <h3>Ejercicio 3</h3>
+          <img src="images/3.PNG" alt="Ejercicio 3" />
+          <button class="btn btn-secondary butSol" id="butSol3">
+            Ver solución
+          </button>
+          <img
+            src="images/3Sol.jpg"
+            class="imgSol"
+            id="sol3"
+            alt="Solucion ejercicio 3"
+          />
+        </li>
+      </ul>
+    </div>
     <script src="hideAndShow.js"></script>
   </body>
 </html>
