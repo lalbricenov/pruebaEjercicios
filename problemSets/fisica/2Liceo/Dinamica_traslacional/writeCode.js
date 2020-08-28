@@ -1,4 +1,4 @@
-const code = 2202021001;
+const code = document.querySelector("#codigo").innerHTML;
 // let hideInput = function () {
 //   let iframe = document.getElementById("forma");
 //   let innerDoc = iframe.contentDocument || iframe.contentWindow.document;
