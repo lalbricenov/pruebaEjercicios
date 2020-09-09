@@ -1,0 +1,62 @@
+psCode,problem1,problem2,problem3,problem4,problem5,dateTime,email,nombre,curso
+1202021001,Bien,Bien,Bien,Regular,Mal,1,1,1,1
+1202021001,Mal,Bien,Mal,Bien,Excelente,1,1,1,1
+1202021001,Mal,Bien,Regular,Excelente,No lo hice,1,1,1,1
+1202021001,Mal,Excelente,Bien,Excelente,Regular,1,1,1,1
+1202021001,No lo hice,Bien,Regular,Excelente,Bien,1,1,1,1
+1202021001,Regular,Bien,Bien,Bien,Bien,1,1,1,1
+1202021001,Regular,Excelente,Bien,Excelente,Bien,1,1,1,1
+1202021001,Regular,Excelente,Bien,Excelente,Excelente,1,1,1,1
+1202021001,Regular,Excelente,Mal,Excelente,Excelente,1,1,1,1
+1202021001,Regular,Excelente,Regular,Excelente,Bien,1,1,1,1
+1202021001,Regular,Mal,Regular,Excelente,Regular,1,1,1,1
+1202021001,Regular,Mal,Regular,Regular,Bien,1,1,1,1
+1202021001,Regular,Regular,Bien,Bien,Bien,1,1,1,1
+2202021001,Bien,Bien,Regular,Regular,Bien,1,1,1,1
+2202021001,Bien,Excelente,Bien,Regular,No lo hice,1,1,1,1
+2202021001,Bien,Excelente,Excelente,Excelente,Bien,1,1,1,1
+2202021001,Bien,Excelente,Regular,Bien,Bien,1,1,1,1
+2202021001,Bien,Excelente,Regular,Bien,Regular,1,1,1,1
+2202021001,Bien,Regular,Excelente,Bien,Bien,1,1,1,1
+2202021001,Excelente,Bien,Bien,Bien,Regular,1,1,1,1
+2202021001,Excelente,Bien,Bien,Regular,Mal,2,2,2,2
+2202021001,Excelente,Bien,Excelente,Excelente,Bien,1,1,1,1
+2202021001,Excelente,Excelente,Bien,Bien,Bien,1,1,1,1
+2202021001,Excelente,Excelente,Bien,Bien,Excelente,2,2,2,2
+2202021001,Excelente,Excelente,Bien,Excelente,Excelente,1,1,1,1
+2202021001,Excelente,Excelente,Bien,Mal,Bien,1,1,1,1
+2202021001,Excelente,Excelente,Excelente,Excelente,Bien,1,1,1,1
+2202021001,Excelente,Excelente,Excelente,Excelente,Excelente,2,2,2,2
+2202021001,Excelente,Excelente,Excelente,Excelente,Regular,1,1,1,1
+2202021001,Excelente,Excelente,Excelente,Regular,Excelente,1,1,1,1
+2202021001,Excelente,No lo hice,Bien,Regular,Regular,1,1,1,1
+2202021001,Excelente,Regular,Excelente,Regular,Bien,1,1,1,1
+2202021001,Regular,Bien,Bien,Bien,Bien,1,1,1,1
+2202021001,Regular,Bien,Mal,Bien,Mal,1,1,1,1
+2202021001,Regular,Regular,Bien,Regular,Regular,1,1,1,1
+2202021002,Bien,Bien,Bien,Bien,Bien,1,1,1,1
+2202021002,Bien,Bien,Regular,Bien,Bien,1,1,1,1
+2202021002,Bien,Excelente,Excelente,Bien,Bien,1,1,1,1
+2202021002,Bien,Excelente,Excelente,Excelente,Bien,1,1,1,1
+2202021002,Excelente,Excelente,Excelente,Excelente,Excelente,2,2,2,2
+2202021002,Excelente,Regular,Excelente,Bien,Bien,1,1,1,1
+2202021002,No lo hice,Excelente,Excelente,Bien,Bien,1,1,1,1
+2202021002,No lo hice,Excelente,Mal,Mal,Regular,1,1,1,1
+2202021002,Regular,Bien,Bien,Regular,Bien,1,1,1,1
+2202021002,Regular,Bien,Regular,Bien,Regular,1,1,1,1
+2202021002,Regular,Excelente,Bien,Excelente,Bien,1,1,1,1
+2202021002,Regular,Excelente,Regular,Excelente,Excelente,1,1,1,1
+3202021001,Bien,Excelente,Bien,Bien,Regular,1,1,1,1
+3202021001,Bien,Regular,Excelente,Excelente,Regular,1,1,1,1
+3202021001,Excelente,Excelente,Bien,Excelente,Bien,1,1,1,1
+3202021001,Mal,Mal,Mal,Bien,Mal,1,1,1,1
+3202021001,Mal,Mal,Mal,Mal,Mal,1,1,1,1
+3202021001,Regular,Bien,Excelente,Bien,Regular,1,1,1,1
+3202021001,Regular,Regular,Mal,Regular,No lo hice,1,1,1,1
+3202021002,Bien,Bien,Bien,Bien,Bien,1,1,1,1
+3202021002,Bien,Excelente,Bien,Excelente,Mal,1,1,1,1
+3202021002,Excelente,Bien,Bien,Regular,Mal,1,1,1,1
+3202021002,Excelente,Excelente,Bien,Regular,Excelente,1,1,1,1
+3202021002,Excelente,Excelente,Excelente,Bien,Bien,1,1,1,1
+3202021002,Excelente,Excelente,Excelente,Bien,Excelente,1,1,1,1
+3202021002,Excelente,Excelente,Excelente,Excelente,Bien,1,1,1,1
