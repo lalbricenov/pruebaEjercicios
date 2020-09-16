@@ -1,66 +1,145 @@
 ,dateTime,email,psCode,problem1,problem2,problem3,problem4,problem5,nombre,curso
-22,2020-03-09 12:08:36,nicolasandres.arambulaj@gimnasiovolta.edu.co,1202021001,Regular,Excelente,Bien,Excelente,Bien,"Arámbula Jaimes, Nicolás Andrés",1
-23,2020-03-09 12:19:51,francisco.castrom@gimnasiovolta.edu.co,1202021001,Mal,Bien,Mal,Bien,Excelente,"Castro Medina, Francisco",1
-32,2020-03-09 13:54:37,mariana.clavijor@gimnasiovolta.edu.co,1202021001,Regular,Excelente,Regular,Excelente,Bien,"Clavijo Rey, Mariana",1
-21,2020-03-09 12:02:35,anibalsantiago.coteso@gimnasiovolta.edu.co,1202021001,Mal,Excelente,Bien,Excelente,Regular,"Cotes Ontibón, Aníbal Santiago",1
-46,2020-03-09 16:16:22,gabriela.jaramillor@gimnasiovolta.edu.co,1202021001,Regular,Excelente,Mal,Excelente,Excelente,"Jaramillo Ruiz , Gabriela",1
-47,2020-03-09 16:34:56,juandaniel.mosquerav@gimnasiovolta.edu.co,1202021001,Regular,Bien,Bien,Bien,Bien,"Mosquera Vergara, Juan Daniel",1
-57,2020-03-09 19:32:57,tomasfelipe.noriegal@gimnasiovolta.edu.co,1202021001,Bien,Bien,Bien,Regular,Mal,"Noriega López, Tomás Felipe",1
-31,2020-03-09 13:02:14,danielaalejandra.perazav@gimnasiovolta.edu.co,1202021001,No lo hice,Bien,Regular,Excelente,Bien,"Peraza Villán, Daniela Alejandra",1
-51,2020-07-09 07:27:35,jacoboalejandro.petrellig@gimnasiovolta.edu.co,1202021001,Mal,Bien,Regular,Excelente,No lo hice,"Petrelli González, Jacobo Alejandro",1
-59,2020-03-09 22:55:15,juanavalentina.rinconb@gimnasiovolta.edu.co,1202021001,Regular,Regular,Bien,Bien,Bien,"Rincón Bernal, Juana Valentina",1
-53,2020-03-09 17:28:25,sergio.rubianom@gimnasiovolta.edu.co,1202021001,Regular,Excelente,Bien,Excelente,Excelente,"Rubiano Maldonado, Sergio",1
-55,2020-03-09 18:04:35,anasofia.silvap@gimnasiovolta.edu.co,1202021001,Regular,Mal,Regular,Excelente,Regular,"Silva Plata, Ana Sofía",1
-52,2020-03-09 17:18:14,mateomatias.vargasm@gimnasiovolta.edu.co,1202021001,Regular,Mal,Regular,Regular,Bien,"Vargas Mafioly, Mateo Matías",1
-29,2020-03-09 12:46:03,marianasofia.barrigac@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Excelente,Bien,"Barriga Castillo, Mariana Sofia",2
-30,2020-07-09 16:31:23,marianasofia.barrigac@gimnasiovolta.edu.co,2202021002,Excelente,Excelente,Excelente,Excelente,Excelente,"Barriga Castillo, Mariana Sofia",2
-15,2020-03-09 08:55:28,valentina.batemanb@gimnasiovolta.edu.co,2202021001,Regular,Bien,Bien,Bien,Bien,"Bateman Barrero, Valentina",2
-43,2020-03-09 20:38:49,antoniojose.biquem@gimnasiovolta.edu.co,2202021001,Bien,Excelente,Excelente,Excelente,Bien,"Bique Moreno, Antonio José",2
-44,2020-05-09 15:06:12,antoniojose.biquem@gimnasiovolta.edu.co,2202021002,Regular,Excelente,Bien,Excelente,Bien,"Bique Moreno, Antonio José",2
+36,2020-03-09 12:08:36,nicolasandres.arambulaj@gimnasiovolta.edu.co,1202021001,Regular,Excelente,Bien,Excelente,Bien,"Arámbula Jaimes, Nicolás Andrés",1
+38,2020-10-09 11:46:16,nicolasandres.arambulaj@gimnasiovolta.edu.co,1202021002,Excelente,Excelente,Bien,Bien,Excelente,"Arámbula Jaimes, Nicolás Andrés",1
+40,2020-12-09 17:08:45,nicolasandres.arambulaj@gimnasiovolta.edu.co,1202021004,Excelente,Excelente,Bien,Bien,Excelente,"Arámbula Jaimes, Nicolás Andrés",1
+163,2020-10-09 09:15:01,jorgeandres.castroc@gimnasiovolta.edu.co,1202021001,Regular,Bien,No lo hice,Bien,Mal,"Castro Céspedes, Jorge Andrés",1
+164,2020-10-09 11:23:34,jorgeandres.castroc@gimnasiovolta.edu.co,1202021002,Excelente,Bien,Excelente,Bien,Excelente,"Castro Céspedes, Jorge Andrés",1
+165,2020-10-09 12:52:48,jorgeandres.castroc@gimnasiovolta.edu.co,1202021004,Bien,Regular,Regular,Bien,Bien,"Castro Céspedes, Jorge Andrés",1
+41,2020-03-09 12:19:51,francisco.castrom@gimnasiovolta.edu.co,1202021001,Mal,Bien,Mal,Bien,Excelente,"Castro Medina, Francisco",1
+42,2020-10-09 11:32:57,francisco.castrom@gimnasiovolta.edu.co,1202021004,Regular,Excelente,Mal,Regular,Bien,"Castro Medina, Francisco",1
+54,2020-03-09 13:54:37,mariana.clavijor@gimnasiovolta.edu.co,1202021001,Regular,Excelente,Regular,Excelente,Bien,"Clavijo Rey, Mariana",1
+55,2020-10-09 19:32:24,mariana.clavijor@gimnasiovolta.edu.co,1202021002,Excelente,Bien,Excelente,Bien,Bien,"Clavijo Rey, Mariana",1
+33,2020-03-09 12:02:35,anibalsantiago.coteso@gimnasiovolta.edu.co,1202021001,Mal,Excelente,Bien,Excelente,Regular,"Cotes Ontibón, Aníbal Santiago",1
+34,2020-10-09 11:20:12,anibalsantiago.coteso@gimnasiovolta.edu.co,1202021002,Excelente,Regular,Bien,Bien,Bien,"Cotes Ontibón, Aníbal Santiago",1
+35,2020-10-09 11:33:57,anibalsantiago.coteso@gimnasiovolta.edu.co,1202021004,Excelente,Excelente,Regular,Mal,Bien,"Cotes Ontibón, Aníbal Santiago",1
+72,2020-03-09 16:16:22,gabriela.jaramillor@gimnasiovolta.edu.co,1202021001,Regular,Excelente,Mal,Excelente,Excelente,"Jaramillo Ruiz , Gabriela",1
+74,2020-10-09 12:01:07,gabriela.jaramillor@gimnasiovolta.edu.co,1202021002,Excelente,Excelente,Excelente,Bien,Excelente,"Jaramillo Ruiz , Gabriela",1
+76,2020-12-09 12:20:19,gabriela.jaramillor@gimnasiovolta.edu.co,1202021004,Excelente,Excelente,Excelente,Mal,Mal,"Jaramillo Ruiz , Gabriela",1
+77,2020-03-09 16:34:56,juandaniel.mosquerav@gimnasiovolta.edu.co,1202021001,Regular,Bien,Bien,Bien,Bien,"Mosquera Vergara, Juan Daniel",1
+78,2020-09-13 16:18:58,juandaniel.mosquerav@gimnasiovolta.edu.co,1202021002,Bien,Bien,Bien,Bien,Bien,"Mosquera Vergara, Juan Daniel",1
+101,2020-03-09 19:32:57,tomasfelipe.noriegal@gimnasiovolta.edu.co,1202021001,Bien,Bien,Bien,Regular,Mal,"Noriega López, Tomás Felipe",1
+102,2020-12-09 14:19:39,tomasfelipe.noriegal@gimnasiovolta.edu.co,1202021002,Excelente,Bien,Bien,Regular,Excelente,"Noriega López, Tomás Felipe",1
+53,2020-03-09 13:02:14,danielaalejandra.perazav@gimnasiovolta.edu.co,1202021001,No lo hice,Bien,Regular,Excelente,Bien,"Peraza Villán, Daniela Alejandra",1
+83,2020-07-09 07:27:35,jacoboalejandro.petrellig@gimnasiovolta.edu.co,1202021001,Mal,Bien,Regular,Excelente,No lo hice,"Petrelli González, Jacobo Alejandro",1
+84,2020-10-09 11:41:03,jacoboalejandro.petrellig@gimnasiovolta.edu.co,1202021002,Excelente,Bien,Excelente,Regular,Excelente,"Petrelli González, Jacobo Alejandro",1
+85,2020-09-13 18:41:31,jacoboalejandro.petrellig@gimnasiovolta.edu.co,1202021004,Bien,Bien,No lo hice,Regular,Bien,"Petrelli González, Jacobo Alejandro",1
+104,2020-03-09 22:55:15,juanavalentina.rinconb@gimnasiovolta.edu.co,1202021001,Regular,Regular,Bien,Bien,Bien,"Rincón Bernal, Juana Valentina",1
+105,2020-12-09 14:12:49,juanavalentina.rinconb@gimnasiovolta.edu.co,1202021002,Excelente,Bien,Excelente,Bien,Excelente,"Rincón Bernal, Juana Valentina",1
+106,2020-12-09 16:14:36,juanavalentina.rinconb@gimnasiovolta.edu.co,1202021004,Bien,Bien,Bien,Regular,Regular,"Rincón Bernal, Juana Valentina",1
+87,2020-03-09 17:28:25,sergio.rubianom@gimnasiovolta.edu.co,1202021001,Regular,Excelente,Bien,Excelente,Excelente,"Rubiano Maldonado, Sergio",1
+88,2020-11-09 10:06:38,sergio.rubianom@gimnasiovolta.edu.co,1202021002,Excelente,Bien,Excelente,Bien,Excelente,"Rubiano Maldonado, Sergio",1
+93,2020-09-13 16:54:33,sergio.rubianom@gimnasiovolta.edu.co,1202021004,Excelente,Bien,Excelente,Bien,Bien,"Rubiano Maldonado, Sergio",1
+95,2020-03-09 18:04:35,anasofia.silvap@gimnasiovolta.edu.co,1202021001,Regular,Mal,Regular,Excelente,Regular,"Silva Plata, Ana Sofía",1
+97,2020-10-09 11:50:26,anasofia.silvap@gimnasiovolta.edu.co,1202021002,Excelente,Bien,Bien,Bien,Bien,"Silva Plata, Ana Sofía",1
+98,2020-10-09 17:26:33,anasofia.silvap@gimnasiovolta.edu.co,1202021004,Bien,Bien,Bien,Regular,Bien,"Silva Plata, Ana Sofía",1
+86,2020-03-09 17:18:14,mateomatias.vargasm@gimnasiovolta.edu.co,1202021001,Regular,Mal,Regular,Regular,Bien,"Vargas Mafioly, Mateo Matías",1
+166,2020-10-09 18:17:18,samuel.villac@gimnasiovolta.edu.co,1202021001,Regular,Bien,Bien,Excelente,Bien,"Villa Cardona, Samuel",1
+170,2020-09-13 17:35:02,samuel.villac@gimnasiovolta.edu.co,1202021002,Excelente,Bien,Excelente,Bien,Excelente,"Villa Cardona, Samuel",1
+171,2020-09-13 18:21:08,samuel.villac@gimnasiovolta.edu.co,1202021004,Bien,Excelente,Excelente,Bien,Excelente,"Villa Cardona, Samuel",1
+50,2020-03-09 12:46:03,marianasofia.barrigac@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Excelente,Bien,"Barriga Castillo, Mariana Sofia",2
+51,2020-07-09 16:31:23,marianasofia.barrigac@gimnasiovolta.edu.co,2202021002,Excelente,Excelente,Excelente,Excelente,Excelente,"Barriga Castillo, Mariana Sofia",2
+52,2020-12-09 18:02:16,marianasofia.barrigac@gimnasiovolta.edu.co,2202021004,Excelente,Excelente,Bien,Regular,Bien,"Barriga Castillo, Mariana Sofia",2
+22,2020-03-09 08:55:28,valentina.batemanb@gimnasiovolta.edu.co,2202021001,Regular,Bien,Bien,Bien,Bien,"Bateman Barrero, Valentina",2
+67,2020-03-09 20:38:49,antoniojose.biquem@gimnasiovolta.edu.co,2202021001,Bien,Excelente,Excelente,Excelente,Bien,"Bique Moreno, Antonio José",2
+68,2020-05-09 15:06:12,antoniojose.biquem@gimnasiovolta.edu.co,2202021002,Regular,Excelente,Bien,Excelente,Bien,"Bique Moreno, Antonio José",2
+69,2020-10-09 18:43:17,antoniojose.biquem@gimnasiovolta.edu.co,2202021004,Bien,Excelente,Excelente,Mal,Regular,"Bique Moreno, Antonio José",2
 0,2020-03-09 07:54:15,mattiapietro.canale@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Excelente,Excelente,"Canale , Mattia Pietro",2
 1,2020-06-09 11:19:24,mattiapietro.canale@gimnasiovolta.edu.co,2202021002,Excelente,Excelente,Excelente,Excelente,Excelente,"Canale , Mattia Pietro",2
-61,2020-04-09 12:34:21,salvatore.confortit@gimnasiovolta.edu.co,2202021002,Regular,Excelente,Regular,Excelente,Excelente,"Conforti Torres, Salvatore",2
-45,2020-03-09 16:09:47,natalia.duranr@gimnasiovolta.edu.co,2202021001,Excelente,Bien,Bien,Regular,Mal,"Durán Ronderos, Natalia",2
-6,2020-03-09 08:05:59,lauragabriela.gonzalezj@gimnasiovolta.edu.co,2202021001,Bien,Bien,Regular,Regular,Bien,"González Jiménez, Laura Gabriela",2
-7,2020-08-09 07:09:58,lauragabriela.gonzalezj@gimnasiovolta.edu.co,2202021002,Regular,Bien,Bien,Regular,Bien,"González Jiménez, Laura Gabriela",2
-62,2020-08-09 07:06:28,maria.guevarar@gimnasiovolta.edu.co,2202021001,Bien,Regular,Excelente,Bien,Bien,"Guevara Rubio, Maria",2
-8,2020-03-09 08:06:17,sergioesteban.gutierrezg@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Excelente,Regular,"Gutierrez Giraldo, Sergio Esteban",2
-17,2020-03-09 09:35:37,anacamila.hernandezp@gimnasiovolta.edu.co,2202021001,Bien,Excelente,Regular,Bien,Bien,"Hernández Pompa, Ana Camila",2
-18,2020-04-09 15:59:20,anacamila.hernandezp@gimnasiovolta.edu.co,2202021002,No lo hice,Excelente,Excelente,Bien,Bien,"Hernández Pompa, Ana Camila",2
-33,2020-03-09 14:49:20,tomas.jaimesb@gimnasiovolta.edu.co,2202021001,Excelente,Regular,Excelente,Regular,Bien,"Jaimes Barbanti, Tomás",2
-12,2020-03-09 08:08:26,danielesteban.jaram@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Bien,Excelente,"Jara Moreno, Daniel Esteban",2
-56,2020-03-09 19:29:23,edith.jimeneza@gimnasiovolta.edu.co,2202021001,Excelente,No lo hice,Bien,Regular,Regular,"Jimenez Amaris, Edith Marianna",2
+108,2020-04-09 12:34:21,salvatore.confortit@gimnasiovolta.edu.co,2202021002,Regular,Excelente,Regular,Excelente,Excelente,"Conforti Torres, Salvatore",2
+70,2020-03-09 16:09:47,natalia.duranr@gimnasiovolta.edu.co,2202021001,Excelente,Bien,Bien,Regular,Mal,"Durán Ronderos, Natalia",2
+71,2020-11-09 07:15:12,natalia.duranr@gimnasiovolta.edu.co,2202021004,Mal,Bien,Bien,Regular,Regular,"Durán Ronderos, Natalia",2
+8,2020-03-09 08:05:59,lauragabriela.gonzalezj@gimnasiovolta.edu.co,2202021001,Bien,Bien,Regular,Regular,Bien,"González Jiménez, Laura Gabriela",2
+9,2020-08-09 07:09:58,lauragabriela.gonzalezj@gimnasiovolta.edu.co,2202021002,Regular,Bien,Bien,Regular,Bien,"González Jiménez, Laura Gabriela",2
+109,2020-08-09 07:06:28,maria.guevarar@gimnasiovolta.edu.co,2202021001,Bien,Regular,Excelente,Bien,Bien,"Guevara Rubio, Maria",2
+110,2020-09-09 17:44:48,maria.guevarar@gimnasiovolta.edu.co,2202021002,Bien,Excelente,Excelente,Bien,Excelente,"Guevara Rubio, Maria",2
+10,2020-03-09 08:06:17,sergioesteban.gutierrezg@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Excelente,Regular,"Gutierrez Giraldo, Sergio Esteban",2
+11,2020-10-09 15:05:55,sergioesteban.gutierrezg@gimnasiovolta.edu.co,2202021004,Excelente,Excelente,Excelente,Excelente,Excelente,"Gutierrez Giraldo, Sergio Esteban",2
+27,2020-03-09 09:35:37,anacamila.hernandezp@gimnasiovolta.edu.co,2202021001,Bien,Excelente,Regular,Bien,Bien,"Hernández Pompa, Ana Camila",2
+28,2020-04-09 15:59:20,anacamila.hernandezp@gimnasiovolta.edu.co,2202021002,No lo hice,Excelente,Excelente,Bien,Bien,"Hernández Pompa, Ana Camila",2
+29,2020-10-09 15:32:38,anacamila.hernandezp@gimnasiovolta.edu.co,2202021004,Excelente,Regular,Excelente,Bien,Regular,"Hernández Pompa, Ana Camila",2
+56,2020-03-09 14:49:20,tomas.jaimesb@gimnasiovolta.edu.co,2202021001,Excelente,Regular,Excelente,Regular,Bien,"Jaimes Barbanti, Tomás",2
+16,2020-03-09 08:08:26,danielesteban.jaram@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Bien,Excelente,"Jara Moreno, Daniel Esteban",2
+17,2020-10-09 07:20:24,danielesteban.jaram@gimnasiovolta.edu.co,2202021002,Excelente,Bien,Excelente,Bien,Bien,"Jara Moreno, Daniel Esteban",2
+99,2020-03-09 19:29:23,edith.jimeneza@gimnasiovolta.edu.co,2202021001,Excelente,No lo hice,Bien,Regular,Regular,"Jimenez Amaris, Edith Marianna",2
+100,2020-09-14 19:25:54,edith.jimeneza@gimnasiovolta.edu.co,2202021005,Excelente,Regular,Bien,Regular,Mal,"Jimenez Amaris, Edith Marianna",2
 2,2020-03-09 08:04:52,mariaalexandra.manriqueb@gimnasiovolta.edu.co,2202021001,Excelente,Bien,Excelente,Excelente,Bien,"Manrique Botero, Maria Alexandra",2
 3,2020-07-09 06:52:39,mariaalexandra.manriqueb@gimnasiovolta.edu.co,2202021002,Bien,Bien,Regular,Bien,Bien,"Manrique Botero, Maria Alexandra",2
-26,2020-03-09 17:10:38,gabrielasofia.morenoa@gimnasiovolta.edu.co,2202021001,Excelente,Bien,Bien,Regular,Mal,"Moreno Albornoz, Gabriela Sofia",2
-27,2020-07-09 14:52:03,gabrielasofia.morenoa@gimnasiovolta.edu.co,2202021002,Bien,Excelente,Excelente,Bien,Bien,"Moreno Albornoz, Gabriela Sofia",2
-28,2020-03-09 12:40:51,juanita.pachecot@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Excelente,Excelente,"Pacheco Tocora, Juanita",2
-60,2020-04-09 09:06:20,arianna.palmeric@gimnasiovolta.edu.co,2202021001,Regular,Regular,Bien,Regular,Regular,"Palmeri Castaño, Arianna",2
+45,2020-03-09 17:10:38,gabrielasofia.morenoa@gimnasiovolta.edu.co,2202021001,Excelente,Bien,Bien,Regular,Mal,"Moreno Albornoz, Gabriela Sofia",2
+46,2020-07-09 14:52:03,gabrielasofia.morenoa@gimnasiovolta.edu.co,2202021002,Bien,Excelente,Excelente,Bien,Bien,"Moreno Albornoz, Gabriela Sofia",2
+47,2020-03-09 12:40:51,juanita.pachecot@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Excelente,Excelente,"Pacheco Tocora, Juanita",2
+49,2020-10-09 16:38:37,juanita.pachecot@gimnasiovolta.edu.co,2202021004,Excelente,Excelente,Excelente,Excelente,Excelente,"Pacheco Tocora, Juanita",2
+107,2020-04-09 09:06:20,arianna.palmeric@gimnasiovolta.edu.co,2202021001,Regular,Regular,Bien,Regular,Regular,"Palmeri Castaño, Arianna",2
 4,2020-03-09 08:05:03,davidalejandro.plazasr@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Bien,Excelente,"Plazas Rodriguez, David Alejandro",2
-34,2020-03-09 16:09:46,lauranicole.polancov@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Mal,Bien,"Polanco Vargas, Laura Nicole",2
-35,2020-07-09 18:15:31,lauranicole.polancov@gimnasiovolta.edu.co,2202021002,Excelente,Regular,Excelente,Bien,Bien,"Polanco Vargas, Laura Nicole",2
-5,2020-03-09 08:05:54,martin.polaniag@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Bien,Bien,"Polania Guevara, Martin",2
-10,2020-03-09 14:40:05,miguelsantiago.roav@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Regular,Excelente,"Roa Vallejo, Miguel Santiago",2
-11,2020-05-09 11:03:28,miguelsantiago.roav@gimnasiovolta.edu.co,2202021002,Bien,Excelente,Excelente,Excelente,Bien,"Roa Vallejo, Miguel Santiago",2
-48,2020-03-09 16:37:52,lauranatalia.rojasg@gimnasiovolta.edu.co,2202021001,Regular,Bien,Mal,Bien,Mal,"Rojas Gómez, Laura Natalia",2
-49,2020-06-09 20:58:20,lauranatalia.rojasg@gimnasiovolta.edu.co,2202021002,No lo hice,Excelente,Mal,Mal,Regular,"Rojas Gómez, Laura Natalia",2
-19,2020-03-09 09:46:40,antoniojose.sanchezb@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Excelente,Excelente,"Sanchez Botia, Antonio Jose",2
-20,2020-05-09 17:21:18,antoniojose.sanchezb@gimnasiovolta.edu.co,2202021002,Bien,Bien,Bien,Bien,Bien,"Sanchez Botia, Antonio Jose",2
-58,2020-03-09 20:32:38,sofia.sarmientog@gimnasiovolta.edu.co,2202021001,Excelente,Bien,Bien,Bien,Regular,"Sarmiento Gómez, Sofía",2
-16,2020-03-09 09:27:50,isabella.vargasm@gimnasiovolta.edu.co,2202021001,Bien,Excelente,Regular,Bien,Regular,"Vargas Mafioly, Isabella",2
-13,2020-03-09 08:11:16,julianesteban.vegav@gimnasiovolta.edu.co,2202021001,Bien,Excelente,Bien,Regular,No lo hice,"Vega Vergara, Julian Esteban",2
-14,2020-07-09 13:04:55,julianesteban.vegav@gimnasiovolta.edu.co,2202021002,Regular,Bien,Regular,Bien,Regular,"Vega Vergara, Julian Esteban",2
-68,2020-08-09 12:39:08,natalie.burgassip@gimnasiovolta.edu.co,3202021001,Regular,Bien,Excelente,Bien,Regular,"Burgassi Parra, Natalie",3
-76,2020-08-09 19:48:43,angelavaleria.grossoe@gimnasiovolta.edu.co,3202021001,Regular,Regular,Mal,Regular,No lo hice,"Grosso Encalada, Angela Valeria",3
-77,2020-08-09 20:07:14,angelavaleria.grossoe@gimnasiovolta.edu.co,3202021002,Bien,Bien,Bien,Bien,Bien,"Grosso Encalada, Angela Valeria",3
-65,2020-08-09 12:01:37,gabriel.guevarar@gimnasiovolta.edu.co,3202021001,Excelente,Excelente,Bien,Excelente,Bien,"Guevara Rubio, Gabriel",3
-66,2020-08-09 12:56:17,gabriel.guevarar@gimnasiovolta.edu.co,3202021002,Excelente,Excelente,Excelente,Bien,Bien,"Guevara Rubio, Gabriel",3
-75,2020-08-09 18:35:04,mariajose.morenod@gimnasiovolta.edu.co,3202021001,Mal,Mal,Mal,Bien,Mal,"Moreno Delgado, María José",3
-74,2020-08-09 18:32:51,mariajose.morenod@gimnasiovolta.edu.co,3202021002,Excelente,Bien,Bien,Regular,Mal,"Moreno Delgado, María José",3
-67,2020-08-09 12:35:16,alejandra.nietof@gimnasiovolta.edu.co,3202021002,Excelente,Excelente,Excelente,Bien,Excelente,"Nieto Farías, Alejandra",3
-69,2020-08-09 12:45:10,saranatalia.ninoc@gimnasiovolta.edu.co,3202021001,Bien,Regular,Excelente,Excelente,Regular,"Niño Cocoma, Sara Natalia",3
-70,2020-08-09 13:34:47,saranatalia.ninoc@gimnasiovolta.edu.co,3202021002,Excelente,Excelente,Bien,Regular,Excelente,"Niño Cocoma, Sara Natalia",3
-64,2020-08-09 10:57:08,nicolas.ortizf@gimnasiovolta.edu.co,3202021001,Mal,Mal,Mal,Mal,Mal,"Ortiz Ferreira, Nicolas",3
-63,2020-08-09 10:43:07,nicolas.ortizf@gimnasiovolta.edu.co,3202021002,Excelente,Excelente,Excelente,Excelente,Bien,"Ortiz Ferreira, Nicolas",3
-73,2020-08-09 17:50:37,sofia.palominoc@gimnasiovolta.edu.co,3202021001,Bien,Excelente,Bien,Bien,Regular,"Palomino Cortés, Sofía",3
-72,2020-08-09 17:49:18,sofia.palominoc@gimnasiovolta.edu.co,3202021002,Bien,Excelente,Bien,Excelente,Mal,"Palomino Cortés, Sofía",3
+5,2020-11-09 07:17:16,davidalejandro.plazasr@gimnasiovolta.edu.co,2202021004,Excelente,Excelente,Excelente,Excelente,Excelente,"Plazas Rodriguez, David Alejandro",2
+57,2020-03-09 16:09:46,lauranicole.polancov@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Mal,Bien,"Polanco Vargas, Laura Nicole",2
+58,2020-07-09 18:15:31,lauranicole.polancov@gimnasiovolta.edu.co,2202021002,Excelente,Regular,Excelente,Bien,Bien,"Polanco Vargas, Laura Nicole",2
+59,2020-09-14 15:30:25,lauranicole.polancov@gimnasiovolta.edu.co,2202021004,Excelente,Excelente,Excelente,Mal,Excelente,"Polanco Vargas, Laura Nicole",2
+6,2020-03-09 08:05:54,martin.polaniag@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Bien,Bien,"Polania Guevara, Martin",2
+7,2020-09-13 16:52:08,martin.polaniag@gimnasiovolta.edu.co,2202021004,Bien,Regular,Bien,Bien,Mal,"Polania Guevara, Martin",2
+13,2020-03-09 14:40:05,miguelsantiago.roav@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Excelente,Regular,Excelente,"Roa Vallejo, Miguel Santiago",2
+14,2020-05-09 11:03:28,miguelsantiago.roav@gimnasiovolta.edu.co,2202021002,Bien,Excelente,Excelente,Excelente,Bien,"Roa Vallejo, Miguel Santiago",2
+15,2020-10-09 19:57:40,miguelsantiago.roav@gimnasiovolta.edu.co,2202021004,Excelente,Excelente,Excelente,Excelente,Excelente,"Roa Vallejo, Miguel Santiago",2
+79,2020-03-09 16:37:52,lauranatalia.rojasg@gimnasiovolta.edu.co,2202021001,Regular,Bien,Mal,Bien,Mal,"Rojas Gómez, Laura Natalia",2
+80,2020-06-09 20:58:20,lauranatalia.rojasg@gimnasiovolta.edu.co,2202021002,No lo hice,Excelente,Mal,Mal,Regular,"Rojas Gómez, Laura Natalia",2
+81,2020-10-09 21:38:31,lauranatalia.rojasg@gimnasiovolta.edu.co,2202021004,Mal,Bien,Bien,Mal,Regular,"Rojas Gómez, Laura Natalia",2
+30,2020-03-09 09:46:40,antoniojose.sanchezb@gimnasiovolta.edu.co,2202021001,Excelente,Excelente,Bien,Excelente,Excelente,"Sanchez Botia, Antonio Jose",2
+31,2020-05-09 17:21:18,antoniojose.sanchezb@gimnasiovolta.edu.co,2202021002,Bien,Bien,Bien,Bien,Bien,"Sanchez Botia, Antonio Jose",2
+32,2020-11-09 07:36:57,antoniojose.sanchezb@gimnasiovolta.edu.co,2202021004,Regular,Bien,Bien,Bien,Bien,"Sanchez Botia, Antonio Jose",2
+103,2020-03-09 20:32:38,sofia.sarmientog@gimnasiovolta.edu.co,2202021001,Excelente,Bien,Bien,Bien,Regular,"Sarmiento Gómez, Sofía",2
+23,2020-03-09 09:27:50,isabella.vargasm@gimnasiovolta.edu.co,2202021001,Bien,Excelente,Regular,Bien,Regular,"Vargas Mafioly, Isabella",2
+25,2020-09-09 18:54:29,isabella.vargasm@gimnasiovolta.edu.co,2202021002,Bien,Regular,Regular,Regular,Regular,"Vargas Mafioly, Isabella",2
+26,2020-11-09 08:59:14,isabella.vargasm@gimnasiovolta.edu.co,2202021004,Bien,Regular,Regular,Bien,Bien,"Vargas Mafioly, Isabella",2
+18,2020-03-09 08:11:16,julianesteban.vegav@gimnasiovolta.edu.co,2202021001,Bien,Excelente,Bien,Regular,No lo hice,"Vega Vergara, Julian Esteban",2
+19,2020-07-09 13:04:55,julianesteban.vegav@gimnasiovolta.edu.co,2202021002,Regular,Bien,Regular,Bien,Regular,"Vega Vergara, Julian Esteban",2
+20,2020-12-09 15:55:26,julianesteban.vegav@gimnasiovolta.edu.co,2202021004,Bien,Bien,Bien,Regular,No lo hice,"Vega Vergara, Julian Esteban",2
+21,2020-09-14 14:13:56,julianesteban.vegav@gimnasiovolta.edu.co,2202021005,Bien,Regular,Regular,Regular,Mal,"Vega Vergara, Julian Esteban",2
+120,2020-08-09 12:39:08,natalie.burgassip@gimnasiovolta.edu.co,3202021001,Regular,Bien,Excelente,Bien,Regular,"Burgassi Parra, Natalie",3
+159,2020-09-09 18:56:53,luiscarlos.castroc@gimnasiovolta.edu.co,3202021001,Mal,Bien,Regular,Regular,No lo hice,"Castro Carrillo, Luis Carlos",3
+158,2020-09-09 18:47:35,luiscarlos.castroc@gimnasiovolta.edu.co,3202021002,Bien,Bien,Regular,Mal,No lo hice,"Castro Carrillo, Luis Carlos",3
+131,2020-08-09 19:48:43,angelavaleria.grossoe@gimnasiovolta.edu.co,3202021001,Regular,Regular,Mal,Regular,No lo hice,"Grosso Encalada, Angela Valeria",3
+132,2020-08-09 20:07:14,angelavaleria.grossoe@gimnasiovolta.edu.co,3202021002,Bien,Bien,Bien,Bien,Bien,"Grosso Encalada, Angela Valeria",3
+133,2020-12-09 12:15:30,angelavaleria.grossoe@gimnasiovolta.edu.co,3202021003,Bien,Bien,Bien,Bien,Regular,"Grosso Encalada, Angela Valeria",3
+114,2020-08-09 12:01:37,gabriel.guevarar@gimnasiovolta.edu.co,3202021001,Excelente,Excelente,Bien,Excelente,Bien,"Guevara Rubio, Gabriel",3
+115,2020-08-09 12:56:17,gabriel.guevarar@gimnasiovolta.edu.co,3202021002,Excelente,Excelente,Excelente,Bien,Bien,"Guevara Rubio, Gabriel",3
+116,2020-12-09 12:26:56,gabriel.guevarar@gimnasiovolta.edu.co,3202021003,Excelente,Excelente,Bien,Bien,Bien,"Guevara Rubio, Gabriel",3
+141,2020-10-09 06:51:32,diegoandres.lucess@gimnasiovolta.edu.co,3202021001,Regular,Regular,Bien,Bien,Mal,"Luces Sandoval, Diego Andrés",3
+140,2020-09-09 11:08:38,diegoandres.lucess@gimnasiovolta.edu.co,3202021002,Bien,Bien,Regular,Mal,Bien,"Luces Sandoval, Diego Andrés",3
+142,2020-12-09 18:56:30,diegoandres.lucess@gimnasiovolta.edu.co,3202021003,Mal,Regular,Regular,Bien,Bien,"Luces Sandoval, Diego Andrés",3
+138,2020-09-09 16:46:07,luisalejandro.morenoc@gimnasiovolta.edu.co,3202021001,Bien,Bien,Regular,Mal,Mal,"Moreno Cañizares, Luis Alejandro",3
+137,2020-09-09 10:48:14,luisalejandro.morenoc@gimnasiovolta.edu.co,3202021002,Bien,Bien,Regular,Bien,Regular,"Moreno Cañizares, Luis Alejandro",3
+139,2020-09-14 15:57:05,luisalejandro.morenoc@gimnasiovolta.edu.co,3202021003,No lo hice,Regular,Mal,Regular,Regular,"Moreno Cañizares, Luis Alejandro",3
+129,2020-08-09 18:35:04,mariajose.morenod@gimnasiovolta.edu.co,3202021001,Mal,Mal,Mal,Bien,Mal,"Moreno Delgado, María José",3
+128,2020-08-09 18:32:51,mariajose.morenod@gimnasiovolta.edu.co,3202021002,Excelente,Bien,Bien,Regular,Mal,"Moreno Delgado, María José",3
+130,2020-12-09 11:13:09,mariajose.morenod@gimnasiovolta.edu.co,3202021003,Regular,Regular,Mal,Mal,Mal,"Moreno Delgado, María José",3
+118,2020-09-09 16:39:29,alejandra.nietof@gimnasiovolta.edu.co,3202021001,Excelente,Bien,Regular,Regular,Regular,"Nieto Farías, Alejandra",3
+117,2020-08-09 12:35:16,alejandra.nietof@gimnasiovolta.edu.co,3202021002,Excelente,Excelente,Excelente,Bien,Excelente,"Nieto Farías, Alejandra",3
+119,2020-12-09 12:21:54,alejandra.nietof@gimnasiovolta.edu.co,3202021003,Bien,Bien,Bien,Bien,Bien,"Nieto Farías, Alejandra",3
+121,2020-08-09 12:45:10,saranatalia.ninoc@gimnasiovolta.edu.co,3202021001,Bien,Regular,Excelente,Excelente,Regular,"Niño Cocoma, Sara Natalia",3
+122,2020-08-09 13:34:47,saranatalia.ninoc@gimnasiovolta.edu.co,3202021002,Excelente,Excelente,Bien,Regular,Excelente,"Niño Cocoma, Sara Natalia",3
+123,2020-11-09 23:02:04,saranatalia.ninoc@gimnasiovolta.edu.co,3202021003,Excelente,Excelente,Excelente,Excelente,Bien,"Niño Cocoma, Sara Natalia",3
+112,2020-08-09 10:57:08,nicolas.ortizf@gimnasiovolta.edu.co,3202021001,Mal,Mal,Mal,Mal,Mal,"Ortiz Ferreira, Nicolas",3
+111,2020-08-09 10:43:07,nicolas.ortizf@gimnasiovolta.edu.co,3202021002,Excelente,Excelente,Excelente,Excelente,Bien,"Ortiz Ferreira, Nicolas",3
+113,2020-09-09 11:36:22,nicolas.ortizf@gimnasiovolta.edu.co,3202021003,Excelente,Excelente,Excelente,Excelente,Excelente,"Ortiz Ferreira, Nicolas",3
+126,2020-08-09 17:50:37,sofia.palominoc@gimnasiovolta.edu.co,3202021001,Bien,Excelente,Bien,Bien,Regular,"Palomino Cortés, Sofía",3
+125,2020-08-09 17:49:18,sofia.palominoc@gimnasiovolta.edu.co,3202021002,Bien,Excelente,Bien,Excelente,Mal,"Palomino Cortés, Sofía",3
+127,2020-09-13 13:39:30,sofia.palominoc@gimnasiovolta.edu.co,3202021003,Excelente,Bien,Regular,Mal,Mal,"Palomino Cortés, Sofía",3
+161,2020-09-09 20:47:51,juanjose.valderramag@gimnasiovolta.edu.co,3202021001,Regular,Bien,Regular,Regular,Regular,"Valderrama García, Juan José",3
+160,2020-09-09 19:29:35,juanjose.valderramag@gimnasiovolta.edu.co,3202021002,Bien,Bien,Bien,Regular,Regular,"Valderrama García, Juan José",3
+162,2020-09-14 15:56:49,juanjose.valderramag@gimnasiovolta.edu.co,3202021003,Regular,Bien,Bien,Mal,Mal,"Valderrama García, Juan José",3
+135,2020-09-09 09:01:17,alejandro.villamila@gimnasiovolta.edu.co,3202021001,Regular,Regular,Mal,Mal,Mal,"Villamil Akins, Alejandro",3
+134,2020-09-09 09:01:15,alejandro.villamila@gimnasiovolta.edu.co,3202021002,Bien,Bien,Regular,Bien,Regular,"Villamil Akins, Alejandro",3
+146,2020-09-09 15:15:02,julianalberto.alvarador@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Excelente,Excelente,"Alvarado Rodríguez, Julián Alberto",4
+143,2020-09-09 15:07:11,david.arambulaj@gimnasiovolta.edu.co,4202021001,Bien,Excelente,Excelente,Excelente,Excelente,"Arámbula Jaimes, David Santiago",4
+152,2020-09-09 15:24:28,mariana.becerrag@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Bien,Bien,"Becerra García, Mariana",4
+173,2020-10-09 22:43:21,juanandres.castroc@gimnasiovolta.edu.co,4202021001,Bien,Bien,Bien,Bien,Mal,"Castro Carrillo, Juan Andrés",4
+148,2020-09-09 15:15:44,juandavid.combitab@gimnasiovolta.edu.co,4202021001,Excelente,Excelente,Excelente,Bien,Mal,"Combita Bueno, Juan David",4
+172,2020-10-09 18:56:46,juansebastian.cuellarc@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Bien,Regular,"Cuéllar Cortés, Juan Sebastián",4
+157,2020-09-09 16:33:52,manuelaalejandra.galeanom@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Bien,Regular,"Galeano Muñoz, Manuela Alejandra",4
+147,2020-09-09 15:15:28,felipe.granadap@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Excelente,Regular,"Granada Pedrozalage, Felipe",4
+150,2020-09-09 15:19:25,julianandres.hernandezp@gimnasiovolta.edu.co,4202021001,Excelente,Excelente,Excelente,Excelente,Regular,"Hernández Pardo, Julián Andrés",4
+156,2020-09-09 15:47:05,gabriela.jaimesb@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Bien,Regular,"Jaimes Barbanti, Gabriela",4
+149,2020-09-09 15:17:23,natalia.melod@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Bien,Regular,"Melo Duarte, Natalia",4
+153,2020-09-09 15:30:24,matteo.mineop@gimnasiovolta.edu.co,4202021001,Bien,Excelente,Excelente,Excelente,Regular,"Mineo Pachón, Matteo",4
+145,2020-09-09 15:15:24,alejandro.suarezd@gimnasiovolta.edu.co,4202021001,Bien,Excelente,Excelente,Excelente,Mal,"Suárez Dolmen, Alejandro",4
+155,2020-09-09 15:34:05,felipe.sanchezp@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Bien,Excelente,"Sánchez Páez, Felipe",4
+154,2020-09-09 15:32:51,sarahelvira.torresp@gimnasiovolta.edu.co,4202021001,Regular,Excelente,Excelente,Bien,Bien,"Torres Prada, Sarah Elvira",4
