@@ -20,6 +20,6 @@ let hide = function (e) {
   e.srcElement.onclick = show;
 };
 
-for (let i = 0; i < N; i++) {
-  solButtons[i].onclick = show;
+for (let j = 0; j < N; j++) {
+  solButtons[j].onclick = show;
 }
