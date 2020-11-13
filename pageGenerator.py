@@ -49,12 +49,12 @@ taller = navigateToTaller()
 def htmlEjercicio(num):
     html = f"""<li>
           <h3>Ejercicio {num}</h3>
-          <img src="images/{num}.PNG" alt="Ejercicio {num}" />
+          <img src="images/{num}.JPG" alt="Ejercicio {num}" />
           <button class="btn btn-secondary butSol" id="butSol{num}">
             Ver solución
           </button>
           <img
-            src="images/{num}Sol.jpg"
+            src="images/{num}Sol.JPG"
             class="imgSol"
             id="sol{num}"
             alt="Solucion ejercicio {num}"
