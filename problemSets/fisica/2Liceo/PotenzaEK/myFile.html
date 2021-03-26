@@ -1,0 +1,125 @@
+"
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Potenza ed energia cinetica</title>
+    <style>
+      body {
+        display: grid;
+        /* max-width: 800px; */
+        justify-items: center;
+        justify-self: center;
+        grid-template-columns: 1fr minmax(400px, 800px) 1fr;
+        grid-template-areas:
+          ". ejercicios ."
+          ". encuesta .";
+      }
+      .imgSol {
+        display: none;
+      }
+      img {
+        width: 100%;
+      }
+      #ejercicios {
+        grid-area: ejercicios;
+      }
+      #encuesta {
+        grid-area: encuesta;
+      }
+    </style>
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
+      crossorigin="anonymous"
+    />
+  </head>
+  <body>
+    <div id="ejercicios"><h1>Potenza ed energia cinetica</h1><h3 id="codigo">2202021013</h3>     <p>
+          Al terminar de trabajar en los ejercicios debe llenar la encuesta, es de
+          caracter obligatorio.
+        </p>
+        <!-- <h2>Ejercicios</h2> -->
+        <ul>
+        <li>
+          <h3>Ejercicio 1</h3>
+          <img src="images/1.JPG" alt="Ejercicio 1" />
+          <button class="btn btn-secondary butSol" id="butSol1">
+            Ver solución
+          </button>
+          <img
+            src="images/1Sol.JPG"
+            class="imgSol"
+            id="sol1"
+            alt="Solucion ejercicio 1"
+          />
+        </li><li>
+          <h3>Ejercicio 2</h3>
+          <img src="images/2.JPG" alt="Ejercicio 2" />
+          <button class="btn btn-secondary butSol" id="butSol2">
+            Ver solución
+          </button>
+          <img
+            src="images/2Sol.JPG"
+            class="imgSol"
+            id="sol2"
+            alt="Solucion ejercicio 2"
+          />
+        </li><li>
+          <h3>Ejercicio 3</h3>
+          <img src="images/3.JPG" alt="Ejercicio 3" />
+          <button class="btn btn-secondary butSol" id="butSol3">
+            Ver solución
+          </button>
+          <img
+            src="images/3Sol.JPG"
+            class="imgSol"
+            id="sol3"
+            alt="Solucion ejercicio 3"
+          />
+        </li><li>
+          <h3>Ejercicio 4</h3>
+          <img src="images/4.JPG" alt="Ejercicio 4" />
+          <button class="btn btn-secondary butSol" id="butSol4">
+            Ver solución
+          </button>
+          <img
+            src="images/4Sol.JPG"
+            class="imgSol"
+            id="sol4"
+            alt="Solucion ejercicio 4"
+          />
+        </li><li>
+          <h3>Ejercicio 5</h3>
+          <img src="images/5.JPG" alt="Ejercicio 5" />
+          <button class="btn btn-secondary butSol" id="butSol5">
+            Ver solución
+          </button>
+          <img
+            src="images/5Sol.JPG"
+            class="imgSol"
+            id="sol5"
+            alt="Solucion ejercicio 5"
+          />
+        </li>
+        </ul>
+      </div>
+      <div id="encuesta">
+        <h2>Autoevaluación</h2>
+        <iframe
+          width="640"
+          height="1050"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          id="forma"
+          >Cargando...</iframe
+        >
+      </div>
+      <script src="writeCode.js"></script>
+      <script src="hideAndShow.js"></script>
+    </body>
+  </html>
+  
